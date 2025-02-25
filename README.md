@@ -16,9 +16,11 @@ Sou um estudante de **Ciências da Computação** apaixonado por tecnologia e de
 ✅ Criar projetos para fortalecer meu portfólio
 ✅ Conseguir minha primeira oportunidade na área de TI
 
-### 📫 Entre em contato comigo:
-[![LinkedIn](https://linkedin.com/in/oemio-carlos-de-lima-ferreira-filho-7251ab243)
-[![E-mail](oemiocarlos@gmail.com)
+### 📩 Entre em contato comigo:
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oemio-carlos-de-lima-ferreira-filho-7251ab243)
+- [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oemiocarlos@gmail.com)
+
 
 ---
 Seja bem-vindo ao meu perfil! Fique à vontade para explorar meus projetos. 🚀
