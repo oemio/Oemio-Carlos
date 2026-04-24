@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo ao meu GitHub! 👋
 
-Sou **Oemio Carlos**, Bacharel em Ciências da Computação (FAM, 2025), desenvolvedor Full-Stack Junior baseado em **Juazeiro do Norte, CE** — disponível para oportunidades remotas em todo o Brasil.
+Sou **Oemio Carlos**, Bacharel em Ciências da Computação (FAM, 2025), desenvolvedor Full-Stack Junior de **Juazeiro do Norte, CE** — disponível para oportunidades remotas em todo o Brasil.
 
 Tenho experiência prática com desenvolvimento web, banco de dados e administração de sistemas Linux. Atualmente focado em **Node.js, React e segurança da informação**.
 
